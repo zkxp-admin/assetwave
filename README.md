@@ -2,6 +2,8 @@
 
 A mobile-first enterprise asset management platform that transforms how organizations track, maintain, and optimize real-world hardware through blockchain verification on Solana.
 
+> **Note**: This repository contains archived code for reference purposes. We have decided not to open source this project at this time. The code as-is will not run without significant setup and additional files.
+
 ## Overview
 
 AssetWave combines AI-powered data capture with autonomous agents that monitor equipment, predict failures, and schedule maintenance automatically. Built on ISO 55000 standards, it provides organizations with transparent, verifiable asset management powered by blockchain technology.
