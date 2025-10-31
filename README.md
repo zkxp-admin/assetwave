@@ -50,23 +50,6 @@ src/
 └── contexts/                # App context (theming)
 ```
 
-## Getting Started
-
-1. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-2. **Start the app**
-   ```bash
-   npx expo start
-   ```
-
-3. **Develop**
-   - Edit files in the `src/app` directory for file-based routing
-   - Add components in `src/components`
-   - Use the app context for theme management
-
 ## Technology Stack
 
 - **React Native** with Expo 54
